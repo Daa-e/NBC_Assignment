@@ -1,6 +1,13 @@
-.vs/ 
-x64/ 
-Debug/ 
-Release/ 
+.vs/
+x64/
+Debug/
+Release/
 *.ipch
 *.db
+Arrangement/
+ArrangementCinout/
+AverageCalculation/
+CalculatingMachine/
+Chapter1/
+ConsoleApplication1/
+GradeManagement/
